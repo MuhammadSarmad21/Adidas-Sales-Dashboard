@@ -1,5 +1,5 @@
 # Adidas-Sales-Dashboard
-🚀 Thrilled to share my latest project – an Adidas Interactive Sales Dashboard built using Streamlit, Plotly, and Python!
+
 
 This dashboard was designed to provide clear, insightful, and interactive views of Adidas sales performance, making it easier to analyze and draw business insights.
 
